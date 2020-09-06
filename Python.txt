@@ -1,0 +1,32 @@
+In this video, we will review the high-level
+features of the Python programming language. Python is a powerhouse language. It is by far the most popular programming
+language for data science. According to the 2019 Kaggle Data Science
+and Machine Learning Survey, 75% of the over 10,000 respondents from around the world reported
+that they use Python on a regular basis. Glassdoor reported that in 2019 more than
+75% of data science positions listed included Python in their job descriptions. When asked which language an aspiring data
+scientist should learn first, most data scientists say Python. You are probably thinking, why on earth is
+Python so popular? Well, let’s start with the people who use
+Python. If you already know how to program, then Python
+is great for you because it uses clear, readable syntax. You can do many of the things you are used
+to doing in other programming languages but with Python you can do it with less code. If you want to learn to program, it’s also
+a great starter language because of the huge global community and wealth of documentation. In fact, several different surveys in 2019
+found that over 80% of data professionals worldwide use Python. Python is useful for many situations, including
+data science, AI and machine learning, web development, and IoT devices like the Raspberry
+Pi. Large organizations that use Python heavily
+include IBM, Wikipedia, Google, Yahoo!, CERN, NASA, Facebook, Amazon, Instagram, Spotify,
+and Reddit. Python is a powerful general-purpose programming
+language that can do a lot of things. It is widely supported by a global community
+and shepherded by the Python Software Foundation. 1. Python is a high-level general-purpose programming
+language that can be applied to many different classes of problems. 2. It has a large, standard library that provides
+tools suited to many different tasks, including but not limited to databases, automation,
+web scraping, text processing, image processing, machine learning, and data analytics. 3. For data science, you can use Python's scientific
+computing libraries such as Pandas, NumPy, SciPy, and Matplotlib. 4. For artificial intelligence, it has TensorFlow,
+PyTorch, Keras, and Scikit-learn. 5. Python can also be used for Natural Language
+Processing (NLP) using the Natural Language Toolkit (NLTK). Another great selling point is the Python
+community, which has a well documented history of paving the way for diversity and inclusion
+efforts in the tech industry as a whole. The Python language has a code of conduct
+executed by the Python Software Foundation that seeks to ensure safety and inclusion
+for all, in both online and in person python communities. There are also communities like PyLadies that
+seek to create spaces for people interested in Python to learn in safe and inclusive environments. PyLadies is an international mentorship group
+with a focus on helping more women become active participants and leaders in the Python
+open source community.
